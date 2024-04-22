@@ -1,0 +1,12 @@
+2024-04-22 13:48:09.967708
+function "flat_generator" was called
+args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}
+result: <generator object flat_generator at 0x00000235FB4A3850>
+2024-04-22 13:48:09.967708
+function "flat_generator" was called
+args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}
+result: <generator object flat_generator at 0x00000235FB4A3850>
+2024-04-22 13:48:09.967708
+function "flat_generator" was called
+args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}
+result: <generator object flat_generator at 0x00000235FB4A3850>

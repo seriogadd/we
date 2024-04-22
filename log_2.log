@@ -1,0 +1,16 @@
+2024-04-22 13:48:18.596213
+function "hello_world" was called
+args: (), kwargs: {}
+result: Hello World
+2024-04-22 13:48:18.596213
+function "summator" was called
+args: (2, 2), kwargs: {}
+result: 4
+2024-04-22 13:48:18.596213
+function "div" was called
+args: (6, 2), kwargs: {}
+result: 3.0
+2024-04-22 13:48:18.596213
+function "summator" was called
+args: (4.3,), kwargs: {'b': 2.2}
+result: 6.5
